@@ -1,0 +1,281 @@
+
+Aug 13 16:57:11
+ Epoch----    1, loss---0.041409
+ Dataset----        HCI_new, PSNR---29.751104, SSIM---0.914594
+ Dataset----        HCI_old, PSNR---37.368936, SSIM---0.952154
+Aug 13 17:40:45
+ Epoch----    2, loss---0.021518
+ Dataset----        HCI_new, PSNR---31.799868, SSIM---0.947349
+ Dataset----        HCI_old, PSNR---38.689985, SSIM---0.966691
+Aug 13 18:24:38
+ Epoch----    3, loss---0.017447
+ Dataset----        HCI_new, PSNR---32.809039, SSIM---0.956127
+ Dataset----        HCI_old, PSNR---39.730032, SSIM---0.970757
+Aug 13 19:07:46
+ Epoch----    4, loss---0.015594
+ Dataset----        HCI_new, PSNR---33.766052, SSIM---0.963103
+ Dataset----        HCI_old, PSNR---40.266068, SSIM---0.972483
+Aug 13 19:51:03
+ Epoch----    5, loss---0.014846
+ Dataset----        HCI_new, PSNR---32.774641, SSIM---0.961465
+ Dataset----        HCI_old, PSNR---39.057115, SSIM---0.973449
+Aug 13 20:34:23
+ Epoch----    6, loss---0.014034
+ Dataset----        HCI_new, PSNR---33.775412, SSIM---0.964998
+ Dataset----        HCI_old, PSNR---40.675086, SSIM---0.972565
+Aug 13 21:17:24
+ Epoch----    7, loss---0.013201
+ Dataset----        HCI_new, PSNR---34.859304, SSIM---0.971136
+ Dataset----        HCI_old, PSNR---40.990846, SSIM---0.976402
+Aug 13 22:00:44
+ Epoch----    8, loss---0.013008
+ Dataset----        HCI_new, PSNR---34.890029, SSIM---0.973365
+ Dataset----        HCI_old, PSNR---40.273302, SSIM---0.977026
+Aug 13 22:44:09
+ Epoch----    9, loss---0.012722
+ Dataset----        HCI_new, PSNR---35.422464, SSIM---0.974560
+ Dataset----        HCI_old, PSNR---41.216314, SSIM---0.979593
+Aug 13 23:27:17
+ Epoch----   10, loss---0.012380
+ Dataset----        HCI_new, PSNR---33.800576, SSIM---0.967202
+ Dataset----        HCI_old, PSNR---40.758434, SSIM---0.976867
+Aug 14 00:10:31
+ Epoch----   11, loss---0.012009
+ Dataset----        HCI_new, PSNR---35.626572, SSIM---0.976145
+ Dataset----        HCI_old, PSNR---41.821769, SSIM---0.980200
+Aug 14 00:53:16
+ Epoch----   12, loss---0.012552
+ Dataset----        HCI_new, PSNR---36.001969, SSIM---0.977220
+ Dataset----        HCI_old, PSNR---42.028116, SSIM---0.982189
+Aug 14 01:36:40
+ Epoch----   13, loss---0.011722
+ Dataset----        HCI_new, PSNR---34.995981, SSIM---0.976007
+ Dataset----        HCI_old, PSNR---39.662336, SSIM---0.978841
+Aug 14 02:19:32
+ Epoch----   14, loss---0.011258
+ Dataset----        HCI_new, PSNR---36.085157, SSIM---0.977787
+ Dataset----        HCI_old, PSNR---41.962181, SSIM---0.980877
+Aug 14 03:02:36
+ Epoch----   15, loss---0.011323
+ Dataset----        HCI_new, PSNR---35.934187, SSIM---0.978357
+ Dataset----        HCI_old, PSNR---42.037180, SSIM---0.982614
+Aug 14 03:45:43
+ Epoch----   16, loss---0.009679
+ Dataset----        HCI_new, PSNR---36.156872, SSIM---0.979268
+ Dataset----        HCI_old, PSNR---42.443227, SSIM---0.983226
+Aug 14 04:28:57
+ Epoch----   17, loss---0.009673
+ Dataset----        HCI_new, PSNR---36.673633, SSIM---0.980688
+ Dataset----        HCI_old, PSNR---42.659823, SSIM---0.984444
+Aug 14 05:11:43
+ Epoch----   18, loss---0.009535
+ Dataset----        HCI_new, PSNR---36.908447, SSIM---0.981333
+ Dataset----        HCI_old, PSNR---42.738786, SSIM---0.985861
+Aug 14 05:54:54
+ Epoch----   19, loss---0.009550
+ Dataset----        HCI_new, PSNR---37.078257, SSIM---0.981533
+ Dataset----        HCI_old, PSNR---42.662634, SSIM---0.984735
+Aug 14 06:38:04
+ Epoch----   20, loss---0.009479
+ Dataset----        HCI_new, PSNR---37.021313, SSIM---0.981778
+ Dataset----        HCI_old, PSNR---42.501603, SSIM---0.983869
+Aug 14 07:21:23
+ Epoch----   21, loss---0.009361
+ Dataset----        HCI_new, PSNR---36.203805, SSIM---0.980145
+ Dataset----        HCI_old, PSNR---42.467858, SSIM---0.983453
+Aug 14 08:03:38
+ Epoch----   22, loss---0.009290
+ Dataset----        HCI_new, PSNR---36.703874, SSIM---0.980642
+ Dataset----        HCI_old, PSNR---42.733099, SSIM---0.984864
+Aug 14 08:46:48
+ Epoch----   23, loss---0.009270
+ Dataset----        HCI_new, PSNR---37.327154, SSIM---0.982543
+ Dataset----        HCI_old, PSNR---42.919329, SSIM---0.986846
+Aug 14 09:29:28
+ Epoch----   24, loss---0.009199
+ Dataset----        HCI_new, PSNR---37.093730, SSIM---0.982188
+ Dataset----        HCI_old, PSNR---42.774787, SSIM---0.985487
+Aug 14 11:01:47
+ Epoch----   25, loss---0.010904
+ Dataset----        HCI_new, PSNR---34.978185, SSIM---0.978633
+ Dataset----        HCI_old, PSNR---39.130279, SSIM---0.983543
+Aug 14 11:44:59
+ Epoch----   26, loss---0.010719
+ Dataset----        HCI_new, PSNR---36.357531, SSIM---0.980107
+ Dataset----        HCI_old, PSNR---41.817512, SSIM---0.982196
+Aug 14 12:28:00
+ Epoch----   27, loss---0.010394
+ Dataset----        HCI_new, PSNR---35.488883, SSIM---0.975984
+ Dataset----        HCI_old, PSNR---41.808145, SSIM---0.983720
+Aug 14 13:10:30
+ Epoch----   28, loss---0.010241
+ Dataset----        HCI_new, PSNR---36.364929, SSIM---0.978885
+ Dataset----        HCI_old, PSNR---42.190295, SSIM---0.980360
+Aug 14 13:53:11
+ Epoch----   29, loss---0.010620
+ Dataset----        HCI_new, PSNR---36.779888, SSIM---0.981398
+ Dataset----        HCI_old, PSNR---42.681118, SSIM---0.986758
+Aug 14 14:35:54
+ Epoch----   30, loss---0.010127
+ Dataset----        HCI_new, PSNR---36.937273, SSIM---0.981983
+ Dataset----        HCI_old, PSNR---42.669837, SSIM---0.986475
+Aug 14 15:18:36
+ Epoch----   31, loss---0.010211
+ Dataset----        HCI_new, PSNR---36.982661, SSIM---0.982139
+ Dataset----        HCI_old, PSNR---42.486875, SSIM---0.985627
+Aug 14 16:00:52
+ Epoch----   32, loss---0.010261
+ Dataset----        HCI_new, PSNR---35.341716, SSIM---0.976787
+ Dataset----        HCI_old, PSNR---42.174863, SSIM---0.981439
+Aug 14 16:43:35
+ Epoch----   33, loss---0.009901
+ Dataset----        HCI_new, PSNR---36.371032, SSIM---0.980534
+ Dataset----        HCI_old, PSNR---42.503894, SSIM---0.985801
+Aug 14 17:26:11
+ Epoch----   34, loss---0.010016
+ Dataset----        HCI_new, PSNR---36.603995, SSIM---0.981928
+ Dataset----        HCI_old, PSNR---42.082910, SSIM---0.986507
+Aug 14 18:09:02
+ Epoch----   35, loss---0.010114
+ Dataset----        HCI_new, PSNR---37.063009, SSIM---0.982406
+ Dataset----        HCI_old, PSNR---42.837295, SSIM---0.986954
+Aug 14 18:51:25
+ Epoch----   36, loss---0.009893
+ Dataset----        HCI_new, PSNR---37.361466, SSIM---0.983015
+ Dataset----        HCI_old, PSNR---42.840789, SSIM---0.987712
+Aug 14 19:34:02
+ Epoch----   37, loss---0.009827
+ Dataset----        HCI_new, PSNR---35.570886, SSIM---0.977206
+ Dataset----        HCI_old, PSNR---41.376586, SSIM---0.977974
+Aug 14 20:16:45
+ Epoch----   38, loss---0.009714
+ Dataset----        HCI_new, PSNR---36.782813, SSIM---0.982125
+ Dataset----        HCI_old, PSNR---42.148318, SSIM---0.985207
+Aug 14 20:59:18
+ Epoch----   39, loss---0.009708
+ Dataset----        HCI_new, PSNR---37.113869, SSIM---0.982395
+ Dataset----        HCI_old, PSNR---42.876617, SSIM---0.986425
+Aug 14 21:41:31
+ Epoch----   40, loss---0.008632
+ Dataset----        HCI_new, PSNR---37.748218, SSIM---0.984174
+ Dataset----        HCI_old, PSNR---43.056718, SSIM---0.987841
+Aug 14 22:24:13
+ Epoch----   41, loss---0.008548
+ Dataset----        HCI_new, PSNR---37.615153, SSIM---0.984061
+ Dataset----        HCI_old, PSNR---42.870021, SSIM---0.989124
+Aug 14 23:06:43
+ Epoch----   42, loss---0.008545
+ Dataset----        HCI_new, PSNR---37.848365, SSIM---0.984483
+ Dataset----        HCI_old, PSNR---43.569109, SSIM---0.990936
+Aug 14 23:48:55
+ Epoch----   43, loss---0.008541
+ Dataset----        HCI_new, PSNR---37.979379, SSIM---0.984681
+ Dataset----        HCI_old, PSNR---43.344882, SSIM---0.990176
+Aug 15 00:31:44
+ Epoch----   44, loss---0.008492
+ Dataset----        HCI_new, PSNR---37.994900, SSIM---0.984841
+ Dataset----        HCI_old, PSNR---43.202882, SSIM---0.989700
+Aug 15 01:14:52
+ Epoch----   45, loss---0.008432
+ Dataset----        HCI_new, PSNR---37.541225, SSIM---0.984370
+ Dataset----        HCI_old, PSNR---42.361972, SSIM---0.988743
+Aug 15 01:57:46
+ Epoch----   46, loss---0.008417
+ Dataset----        HCI_new, PSNR---37.877141, SSIM---0.984510
+ Dataset----        HCI_old, PSNR---43.457065, SSIM---0.990672
+Aug 15 02:40:13
+ Epoch----   47, loss---0.008463
+ Dataset----        HCI_new, PSNR---38.249055, SSIM---0.985200
+ Dataset----        HCI_old, PSNR---43.521649, SSIM---0.990930
+Aug 15 03:22:45
+ Epoch----   48, loss---0.008416
+ Dataset----        HCI_new, PSNR---38.094733, SSIM---0.984897
+ Dataset----        HCI_old, PSNR---43.224719, SSIM---0.989090
+Aug 15 04:05:21
+ Epoch----   49, loss---0.008450
+ Dataset----        HCI_new, PSNR---37.951351, SSIM---0.984828
+ Dataset----        HCI_old, PSNR---43.261929, SSIM---0.989681
+Aug 15 04:47:54
+ Epoch----   50, loss---0.008311
+ Dataset----        HCI_new, PSNR---38.102517, SSIM---0.985117
+ Dataset----        HCI_old, PSNR---43.296682, SSIM---0.989823
+Aug 15 05:30:16
+ Epoch----   51, loss---0.008353
+ Dataset----        HCI_new, PSNR---37.893174, SSIM---0.984517
+ Dataset----        HCI_old, PSNR---43.280620, SSIM---0.989492
+Aug 15 06:12:56
+ Epoch----   52, loss---0.008349
+ Dataset----        HCI_new, PSNR---38.170749, SSIM---0.985229
+ Dataset----        HCI_old, PSNR---43.646859, SSIM---0.991494
+Aug 15 06:56:01
+ Epoch----   53, loss---0.008271
+ Dataset----        HCI_new, PSNR---38.054302, SSIM---0.985076
+ Dataset----        HCI_old, PSNR---43.325712, SSIM---0.989967
+Aug 15 07:38:33
+ Epoch----   54, loss---0.008316
+ Dataset----        HCI_new, PSNR---37.714383, SSIM---0.984542
+ Dataset----        HCI_old, PSNR---43.185258, SSIM---0.989153
+Aug 15 08:20:46
+ Epoch----   55, loss---0.007822
+ Dataset----        HCI_new, PSNR---38.422378, SSIM---0.985747
+ Dataset----        HCI_old, PSNR---43.555504, SSIM---0.990923
+Aug 15 09:03:05
+ Epoch----   56, loss---0.007828
+ Dataset----        HCI_new, PSNR---38.431388, SSIM---0.985814
+ Dataset----        HCI_old, PSNR---43.741953, SSIM---0.991898
+Aug 15 09:45:21
+ Epoch----   57, loss---0.007814
+ Dataset----        HCI_new, PSNR---38.509620, SSIM---0.985927
+ Dataset----        HCI_old, PSNR---43.661977, SSIM---0.991587
+Aug 15 10:27:40
+ Epoch----   58, loss---0.007787
+ Dataset----        HCI_new, PSNR---38.482284, SSIM---0.986035
+ Dataset----        HCI_old, PSNR---43.362676, SSIM---0.989975
+Aug 15 11:09:54
+ Epoch----   59, loss---0.007771
+ Dataset----        HCI_new, PSNR---38.411430, SSIM---0.985970
+ Dataset----        HCI_old, PSNR---43.540380, SSIM---0.991263
+Aug 15 11:52:05
+ Epoch----   60, loss---0.007774
+ Dataset----        HCI_new, PSNR---38.351520, SSIM---0.985918
+ Dataset----        HCI_old, PSNR---43.879725, SSIM---0.992405
+Aug 15 12:33:57
+ Epoch----   61, loss---0.007784
+ Dataset----        HCI_new, PSNR---38.510960, SSIM---0.986043
+ Dataset----        HCI_old, PSNR---43.790081, SSIM---0.991990
+Aug 15 13:16:23
+ Epoch----   62, loss---0.007818
+ Dataset----        HCI_new, PSNR---38.581964, SSIM---0.986145
+ Dataset----        HCI_old, PSNR---43.609221, SSIM---0.991283
+Aug 15 13:59:13
+ Epoch----   63, loss---0.007724
+ Dataset----        HCI_new, PSNR---38.479766, SSIM---0.986069
+ Dataset----        HCI_old, PSNR---43.594303, SSIM---0.991314
+Aug 15 14:41:51
+ Epoch----   64, loss---0.007788
+ Dataset----        HCI_new, PSNR---38.340453, SSIM---0.985810
+ Dataset----        HCI_old, PSNR---43.376149, SSIM---0.990135
+Aug 15 15:23:57
+ Epoch----   65, loss---0.007770
+ Dataset----        HCI_new, PSNR---38.516201, SSIM---0.986083
+ Dataset----        HCI_old, PSNR---43.627542, SSIM---0.991630
+Aug 15 16:06:34
+ Epoch----   66, loss---0.007774
+ Dataset----        HCI_new, PSNR---38.579080, SSIM---0.986181
+ Dataset----        HCI_old, PSNR---43.447764, SSIM---0.990438
+Aug 15 16:49:18
+ Epoch----   67, loss---0.007709
+ Dataset----        HCI_new, PSNR---38.621240, SSIM---0.986234
+ Dataset----        HCI_old, PSNR---43.598145, SSIM---0.991333
+Aug 15 17:32:15
+ Epoch----   68, loss---0.007757
+ Dataset----        HCI_new, PSNR---38.626649, SSIM---0.986325
+ Dataset----        HCI_old, PSNR---43.508239, SSIM---0.990854
+Aug 15 18:14:12
+ Epoch----   69, loss---0.007687
+ Dataset----        HCI_new, PSNR---38.608420, SSIM---0.986230
+ Dataset----        HCI_old, PSNR---43.890823, SSIM---0.992334
+Aug 15 18:56:19
+ Epoch----   70, loss---0.007491
+ Dataset----        HCI_new, PSNR---38.764089, SSIM---0.986436
+ Dataset----        HCI_old, PSNR---43.885501, SSIM---0.992389

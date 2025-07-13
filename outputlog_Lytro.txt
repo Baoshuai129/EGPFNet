@@ -1,0 +1,350 @@
+Aug 15 15:04:34
+ Epoch----    1, loss---0.021321
+ Dataset----     reflective, PSNR---37.681279, SSIM---0.976680
+ Dataset----     occlusions, PSNR---37.407178, SSIM---0.986736
+ Dataset----        30scene, PSNR---41.187019, SSIM---0.991689
+Aug 15 17:44:53
+ Epoch----    2, loss---0.014733
+ Dataset----     reflective, PSNR---38.404385, SSIM---0.978485
+ Dataset----     occlusions, PSNR---38.223197, SSIM---0.988541
+ Dataset----        30scene, PSNR---42.239638, SSIM---0.993193
+Aug 15 20:21:31
+ Epoch----    3, loss---0.013802
+ Dataset----     reflective, PSNR---38.214703, SSIM---0.978053
+ Dataset----     occlusions, PSNR---38.335357, SSIM---0.989188
+ Dataset----        30scene, PSNR---42.165837, SSIM---0.993367
+Aug 15 23:00:26
+ Epoch----    4, loss---0.013117
+ Dataset----     reflective, PSNR---38.545715, SSIM---0.979671
+ Dataset----     occlusions, PSNR---38.411385, SSIM---0.989394
+ Dataset----        30scene, PSNR---42.047227, SSIM---0.993528
+Aug 16 01:40:02
+ Epoch----    5, loss---0.012753
+ Dataset----     reflective, PSNR---38.708150, SSIM---0.978919
+ Dataset----     occlusions, PSNR---38.920523, SSIM---0.990203
+ Dataset----        30scene, PSNR---42.891320, SSIM---0.994055
+Aug 16 04:19:00
+ Epoch----    6, loss---0.012425
+ Dataset----     reflective, PSNR---38.369068, SSIM---0.978873
+ Dataset----     occlusions, PSNR---39.019344, SSIM---0.990401
+ Dataset----        30scene, PSNR---43.010879, SSIM---0.994254
+Aug 16 06:58:22
+ Epoch----    7, loss---0.012048
+ Dataset----     reflective, PSNR---38.828248, SSIM---0.980296
+ Dataset----     occlusions, PSNR---39.111159, SSIM---0.990726
+ Dataset----        30scene, PSNR---42.798102, SSIM---0.994366
+Aug 16 09:36:08
+ Epoch----    8, loss---0.011907
+ Dataset----     reflective, PSNR---38.691604, SSIM---0.978476
+ Dataset----     occlusions, PSNR---39.027941, SSIM---0.990622
+ Dataset----        30scene, PSNR---42.625443, SSIM---0.993956
+Aug 16 12:11:37
+ Epoch----    9, loss---0.011761
+ Dataset----     reflective, PSNR---39.078986, SSIM---0.978865
+ Dataset----     occlusions, PSNR---39.433451, SSIM---0.991117
+ Dataset----        30scene, PSNR---43.338505, SSIM---0.994608
+Aug 16 14:45:57
+ Epoch----   10, loss---0.011681
+ Dataset----     reflective, PSNR---38.956157, SSIM---0.980888
+ Dataset----     occlusions, PSNR---39.186165, SSIM---0.990904
+ Dataset----        30scene, PSNR---42.984999, SSIM---0.994447
+Aug 16 17:21:39
+ Epoch----   11, loss---0.011469
+ Dataset----     reflective, PSNR---38.823151, SSIM---0.979084
+ Dataset----     occlusions, PSNR---39.158342, SSIM---0.990699
+ Dataset----        30scene, PSNR---43.145802, SSIM---0.994462
+Aug 16 20:03:01
+ Epoch----   12, loss---0.011307
+ Dataset----     reflective, PSNR---38.997420, SSIM---0.978740
+ Dataset----     occlusions, PSNR---39.145621, SSIM---0.990967
+ Dataset----        30scene, PSNR---42.761524, SSIM---0.994637
+Aug 16 22:46:16
+ Epoch----   13, loss---0.011273
+ Dataset----     reflective, PSNR---37.268276, SSIM---0.978606
+ Dataset----     occlusions, PSNR---38.545321, SSIM---0.990721
+ Dataset----        30scene, PSNR---41.549952, SSIM---0.994511
+Aug 17 01:29:25
+ Epoch----   14, loss---0.011172
+ Dataset----     reflective, PSNR---39.022808, SSIM---0.978772
+ Dataset----     occlusions, PSNR---39.514628, SSIM---0.991272
+ Dataset----        30scene, PSNR---43.350976, SSIM---0.994673
+Aug 17 04:11:46
+ Epoch----   15, loss---0.011108
+ Dataset----     reflective, PSNR---38.925592, SSIM---0.978806
+ Dataset----     occlusions, PSNR---39.562624, SSIM---0.991519
+ Dataset----        30scene, PSNR---43.514777, SSIM---0.994921
+Aug 17 06:54:30
+ Epoch----   16, loss---0.010285
+ Dataset----     reflective, PSNR---39.088099, SSIM---0.979780
+ Dataset----     occlusions, PSNR---39.905312, SSIM---0.991994
+ Dataset----        30scene, PSNR---43.738301, SSIM---0.995186
+Aug 17 09:37:25
+ Epoch----   17, loss---0.010185
+ Dataset----     reflective, PSNR---39.000515, SSIM---0.978924
+ Dataset----     occlusions, PSNR---39.842953, SSIM---0.991926
+ Dataset----        30scene, PSNR---43.735824, SSIM---0.995195
+Aug 17 12:19:51
+ Epoch----   18, loss---0.010174
+ Dataset----     reflective, PSNR---38.928046, SSIM---0.978843
+ Dataset----     occlusions, PSNR---39.945174, SSIM---0.992087
+ Dataset----        30scene, PSNR---43.884398, SSIM---0.995305
+Aug 17 15:02:30
+ Epoch----   19, loss---0.010117
+ Dataset----     reflective, PSNR---39.218428, SSIM---0.978918
+ Dataset----     occlusions, PSNR---39.915625, SSIM---0.991987
+ Dataset----        30scene, PSNR---43.755125, SSIM---0.995151
+Aug 17 17:43:42
+ Epoch----   20, loss---0.010100
+ Dataset----     reflective, PSNR---39.183886, SSIM---0.979094
+ Dataset----     occlusions, PSNR---39.997074, SSIM---0.992165
+ Dataset----        30scene, PSNR---43.870711, SSIM---0.995326
+Aug 17 20:25:19
+ Epoch----   21, loss---0.010009
+ Dataset----     reflective, PSNR---39.099916, SSIM---0.978599
+ Dataset----     occlusions, PSNR---40.010599, SSIM---0.992129
+ Dataset----        30scene, PSNR---43.843467, SSIM---0.995324
+Aug 17 23:06:03
+ Epoch----   22, loss---0.010010
+ Dataset----     reflective, PSNR---39.338252, SSIM---0.978811
+ Dataset----     occlusions, PSNR---40.000013, SSIM---0.992151
+ Dataset----        30scene, PSNR---43.855082, SSIM---0.995275
+Aug 18 01:48:23
+ Epoch----   23, loss---0.009986
+ Dataset----     reflective, PSNR---39.008737, SSIM---0.979239
+ Dataset----     occlusions, PSNR---39.819249, SSIM---0.992084
+ Dataset----        30scene, PSNR---43.633779, SSIM---0.995279
+Aug 18 04:30:36
+ Epoch----   24, loss---0.009974
+ Dataset----     reflective, PSNR---39.121512, SSIM---0.979199
+ Dataset----     occlusions, PSNR---39.994926, SSIM---0.992196
+ Dataset----        30scene, PSNR---43.797696, SSIM---0.995385
+Aug 18 07:12:48
+ Epoch----   25, loss---0.009899
+ Dataset----     reflective, PSNR---39.103231, SSIM---0.979714
+ Dataset----     occlusions, PSNR---40.051563, SSIM---0.992268
+ Dataset----        30scene, PSNR---43.991016, SSIM---0.995468
+Aug 18 09:54:03
+ Epoch----   26, loss---0.009873
+ Dataset----     reflective, PSNR---39.424842, SSIM---0.978898
+ Dataset----     occlusions, PSNR---40.139228, SSIM---0.992368
+ Dataset----        30scene, PSNR---44.091576, SSIM---0.995507
+Aug 18 12:32:19
+ Epoch----   27, loss---0.009865
+ Dataset----     reflective, PSNR---39.358402, SSIM---0.979725
+ Dataset----     occlusions, PSNR---40.170666, SSIM---0.992401
+ Dataset----        30scene, PSNR---44.111900, SSIM---0.995502
+Aug 18 15:13:00
+ Epoch----   28, loss---0.009845
+ Dataset----     reflective, PSNR---39.451930, SSIM---0.980636
+ Dataset----     occlusions, PSNR---40.126814, SSIM---0.992382
+ Dataset----        30scene, PSNR---44.011943, SSIM---0.995500
+Aug 18 17:54:01
+ Epoch----   29, loss---0.009800
+ Dataset----     reflective, PSNR---39.538892, SSIM---0.980662
+ Dataset----     occlusions, PSNR---40.088260, SSIM---0.992311
+ Dataset----        30scene, PSNR---44.120523, SSIM---0.995530
+Aug 18 20:37:15
+ Epoch----   30, loss---0.009760
+ Dataset----     reflective, PSNR---39.071919, SSIM---0.978722
+ Dataset----     occlusions, PSNR---40.089969, SSIM---0.992355
+ Dataset----        30scene, PSNR---44.081746, SSIM---0.995514
+Aug 18 23:19:16
+ Epoch----   31, loss---0.009433
+ Dataset----     reflective, PSNR---39.222173, SSIM---0.981020
+ Dataset----     occlusions, PSNR---40.120404, SSIM---0.992537
+ Dataset----        30scene, PSNR---44.036769, SSIM---0.995666
+Aug 19 02:01:47
+ Epoch----   32, loss---0.009422
+ Dataset----     reflective, PSNR---39.225377, SSIM---0.979614
+ Dataset----     occlusions, PSNR---40.226997, SSIM---0.992584
+ Dataset----        30scene, PSNR---44.279712, SSIM---0.995692
+Aug 19 04:45:24
+ Epoch----   33, loss---0.009357
+ Dataset----     reflective, PSNR---39.389874, SSIM---0.980730
+ Dataset----     occlusions, PSNR---40.287466, SSIM---0.992649
+ Dataset----        30scene, PSNR---44.300713, SSIM---0.995709
+Aug 19 07:27:40
+ Epoch----   34, loss---0.009325
+ Dataset----     reflective, PSNR---39.591998, SSIM---0.981720
+ Dataset----     occlusions, PSNR---40.289595, SSIM---0.992637
+ Dataset----        30scene, PSNR---44.317820, SSIM---0.995709
+Aug 19 10:10:39
+ Epoch----   35, loss---0.009332
+ Dataset----     reflective, PSNR---39.543747, SSIM---0.981017
+ Dataset----     occlusions, PSNR---40.294234, SSIM---0.992634
+ Dataset----        30scene, PSNR---44.284984, SSIM---0.995697
+Aug 19 12:54:15
+ Epoch----   36, loss---0.009317
+ Dataset----     reflective, PSNR---39.366521, SSIM---0.980297
+ Dataset----     occlusions, PSNR---40.272383, SSIM---0.992566
+ Dataset----        30scene, PSNR---44.284852, SSIM---0.995708
+Aug 19 15:36:36
+ Epoch----   37, loss---0.009325
+ Dataset----     reflective, PSNR---39.532721, SSIM---0.980376
+ Dataset----     occlusions, PSNR---40.294964, SSIM---0.992617
+ Dataset----        30scene, PSNR---44.307646, SSIM---0.995726
+Aug 19 18:20:20
+ Epoch----   38, loss---0.009292
+ Dataset----     reflective, PSNR---39.486962, SSIM---0.981753
+ Dataset----     occlusions, PSNR---40.300955, SSIM---0.992713
+ Dataset----        30scene, PSNR---44.327428, SSIM---0.995739
+Aug 19 21:00:59
+ Epoch----   39, loss---0.009286
+ Dataset----     reflective, PSNR---39.299373, SSIM---0.980582
+ Dataset----     occlusions, PSNR---40.245473, SSIM---0.992616
+ Dataset----        30scene, PSNR---44.246069, SSIM---0.995722
+Aug 19 23:40:13
+ Epoch----   40, loss---0.009243
+ Dataset----     reflective, PSNR---39.582839, SSIM---0.981932
+ Dataset----     occlusions, PSNR---40.298168, SSIM---0.992660
+ Dataset----        30scene, PSNR---44.328603, SSIM---0.995748
+Aug 20 02:20:13
+ Epoch----   41, loss---0.009243
+ Dataset----     reflective, PSNR---39.451962, SSIM---0.980558
+ Dataset----     occlusions, PSNR---40.338588, SSIM---0.992715
+ Dataset----        30scene, PSNR---44.340372, SSIM---0.995752
+Aug 20 05:00:07
+ Epoch----   42, loss---0.009255
+ Dataset----     reflective, PSNR---39.351553, SSIM---0.980570
+ Dataset----     occlusions, PSNR---40.296638, SSIM---0.992668
+ Dataset----        30scene, PSNR---44.324501, SSIM---0.995750
+Aug 20 07:39:56
+ Epoch----   43, loss---0.009247
+ Dataset----     reflective, PSNR---39.487458, SSIM---0.981538
+ Dataset----     occlusions, PSNR---40.334864, SSIM---0.992704
+ Dataset----        30scene, PSNR---44.216581, SSIM---0.995738
+Aug 20 10:20:02
+ Epoch----   44, loss---0.009212
+ Dataset----     reflective, PSNR---39.488473, SSIM---0.980671
+ Dataset----     occlusions, PSNR---40.386362, SSIM---0.992753
+ Dataset----        30scene, PSNR---44.285593, SSIM---0.995756
+Aug 20 13:00:04
+ Epoch----   45, loss---0.009235
+ Dataset----     reflective, PSNR---39.275527, SSIM---0.980059
+ Dataset----     occlusions, PSNR---40.356709, SSIM---0.992709
+ Dataset----        30scene, PSNR---44.414011, SSIM---0.995799
+Aug 20 15:40:05
+ Epoch----   46, loss---0.009024
+ Dataset----     reflective, PSNR---39.570124, SSIM---0.981413
+ Dataset----     occlusions, PSNR---40.405812, SSIM---0.992819
+ Dataset----        30scene, PSNR---44.432839, SSIM---0.995838
+Aug 20 18:22:05
+ Epoch----   47, loss---0.008991
+ Dataset----     reflective, PSNR---39.544024, SSIM---0.981800
+ Dataset----     occlusions, PSNR---40.429651, SSIM---0.992837
+ Dataset----        30scene, PSNR---44.466850, SSIM---0.995849
+Aug 20 21:05:25
+ Epoch----   48, loss---0.009011
+ Dataset----     reflective, PSNR---39.444056, SSIM---0.981338
+ Dataset----     occlusions, PSNR---40.366280, SSIM---0.992803
+ Dataset----        30scene, PSNR---44.450063, SSIM---0.995853
+Aug 20 23:52:23
+ Epoch----   49, loss---0.009011
+ Dataset----     reflective, PSNR---39.472945, SSIM---0.981131
+ Dataset----     occlusions, PSNR---40.386091, SSIM---0.992791
+ Dataset----        30scene, PSNR---44.448321, SSIM---0.995844
+Aug 21 02:36:08
+ Epoch----   50, loss---0.008993
+ Dataset----     reflective, PSNR---39.584761, SSIM---0.981844
+ Dataset----     occlusions, PSNR---40.378993, SSIM---0.992767
+ Dataset----        30scene, PSNR---44.309007, SSIM---0.995827
+Aug 21 05:25:32
+ Epoch----   51, loss---0.008992
+ Dataset----     reflective, PSNR---39.508265, SSIM---0.981928
+ Dataset----     occlusions, PSNR---40.385319, SSIM---0.992780
+ Dataset----        30scene, PSNR---44.454990, SSIM---0.995848
+Aug 21 08:15:57
+ Epoch----   52, loss---0.008969
+ Dataset----     reflective, PSNR---39.509004, SSIM---0.981672
+ Dataset----     occlusions, PSNR---40.423052, SSIM---0.992826
+ Dataset----        30scene, PSNR---44.444444, SSIM---0.995846
+Aug 21 11:04:08
+ Epoch----   53, loss---0.008959
+ Dataset----     reflective, PSNR---39.567205, SSIM---0.981784
+ Dataset----     occlusions, PSNR---40.415740, SSIM---0.992803
+ Dataset----        30scene, PSNR---44.436807, SSIM---0.995855
+Aug 21 13:48:47
+ Epoch----   54, loss---0.008959
+ Dataset----     reflective, PSNR---39.504766, SSIM---0.981876
+ Dataset----     occlusions, PSNR---40.406547, SSIM---0.992804
+ Dataset----        30scene, PSNR---44.468508, SSIM---0.995871
+Aug 21 16:36:49
+ Epoch----   55, loss---0.008987
+ Dataset----     reflective, PSNR---39.526355, SSIM---0.981766
+ Dataset----     occlusions, PSNR---40.448110, SSIM---0.992875
+ Dataset----        30scene, PSNR---44.452549, SSIM---0.995866
+Aug 21 19:23:24
+ Epoch----   56, loss---0.008955
+ Dataset----     reflective, PSNR---39.595592, SSIM---0.981932
+ Dataset----     occlusions, PSNR---40.427313, SSIM---0.992831
+ Dataset----        30scene, PSNR---44.494528, SSIM---0.995880
+Aug 21 22:10:44
+ Epoch----   57, loss---0.008962
+ Dataset----     reflective, PSNR---39.526580, SSIM---0.981914
+ Dataset----     occlusions, PSNR---40.426317, SSIM---0.992822
+ Dataset----        30scene, PSNR---44.492968, SSIM---0.995886
+Aug 22 00:56:51
+ Epoch----   58, loss---0.008941
+ Dataset----     reflective, PSNR---39.520158, SSIM---0.981859
+ Dataset----     occlusions, PSNR---40.413157, SSIM---0.992806
+ Dataset----        30scene, PSNR---44.490231, SSIM---0.995888
+Aug 22 03:41:15
+ Epoch----   59, loss---0.008914
+ Dataset----     reflective, PSNR---39.650976, SSIM---0.982312
+ Dataset----     occlusions, PSNR---40.436882, SSIM---0.992832
+ Dataset----        30scene, PSNR---44.471874, SSIM---0.995876
+Aug 22 06:23:45
+ Epoch----   60, loss---0.008921
+ Dataset----     reflective, PSNR---39.695987, SSIM---0.981907
+ Dataset----     occlusions, PSNR---40.449438, SSIM---0.992884
+ Dataset----        30scene, PSNR---44.481417, SSIM---0.995880
+Aug 22 09:04:31
+ Epoch----   61, loss---0.008826
+ Dataset----     reflective, PSNR---39.545339, SSIM---0.981810
+ Dataset----     occlusions, PSNR---40.466220, SSIM---0.992871
+ Dataset----        30scene, PSNR---44.505866, SSIM---0.995907
+Aug 22 11:51:58
+ Epoch----   62, loss---0.008826
+ Dataset----     reflective, PSNR---39.645731, SSIM---0.982073
+ Dataset----     occlusions, PSNR---40.465714, SSIM---0.992876
+ Dataset----        30scene, PSNR---44.529835, SSIM---0.995911
+Aug 22 14:35:52
+ Epoch----   63, loss---0.008816
+ Dataset----     reflective, PSNR---39.668999, SSIM---0.982045
+ Dataset----     occlusions, PSNR---40.461837, SSIM---0.992874
+ Dataset----        30scene, PSNR---44.527805, SSIM---0.995912
+Aug 22 17:17:08
+ Epoch----   64, loss---0.008787
+ Dataset----     reflective, PSNR---39.649143, SSIM---0.982278
+ Dataset----     occlusions, PSNR---40.451612, SSIM---0.992850
+ Dataset----        30scene, PSNR---44.516522, SSIM---0.995911
+Aug 22 19:57:11
+ Epoch----   65, loss---0.008822
+ Dataset----     reflective, PSNR---39.564385, SSIM---0.981934
+ Dataset----     occlusions, PSNR---40.447464, SSIM---0.992849
+ Dataset----        30scene, PSNR---44.518062, SSIM---0.995913
+Aug 22 22:37:17
+ Epoch----   66, loss---0.008766
+ Dataset----     reflective, PSNR---39.618749, SSIM---0.981964
+ Dataset----     occlusions, PSNR---40.469352, SSIM---0.992876
+ Dataset----        30scene, PSNR---44.515052, SSIM---0.995909
+Aug 23 01:19:45
+ Epoch----   67, loss---0.008807
+ Dataset----     reflective, PSNR---39.691367, SSIM---0.982058
+ Dataset----     occlusions, PSNR---40.480293, SSIM---0.992879
+ Dataset----        30scene, PSNR---44.528332, SSIM---0.995915
+Aug 23 03:59:53
+ Epoch----   68, loss---0.008795
+ Dataset----     reflective, PSNR---39.602515, SSIM---0.981966
+ Dataset----     occlusions, PSNR---40.472887, SSIM---0.992890
+ Dataset----        30scene, PSNR---44.536161, SSIM---0.995927
+Aug 23 06:38:00
+ Epoch----   69, loss---0.008817
+ Dataset----     reflective, PSNR---39.628988, SSIM---0.982236
+ Dataset----     occlusions, PSNR---40.440650, SSIM---0.992849
+ Dataset----        30scene, PSNR---44.537742, SSIM---0.995926
+Aug 23 09:17:15
+ Epoch----   70, loss---0.008827
+ Dataset----     reflective, PSNR---39.681768, SSIM---0.981877
+ Dataset----     occlusions, PSNR---40.464112, SSIM---0.992873
+ Dataset----        30scene, PSNR---44.508031, SSIM---0.995917
